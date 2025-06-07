@@ -49,7 +49,7 @@ Actualmente estoy combinando formación estructurada y desafíos prácticos para
 
 ## 🌱 Aprendizaje Detallado y Proyectos
 
-* Documentando mi dia a dia en mi **[Bitácora de Estudios]([./Bitacora-de-estudios.md])**.
+* Documentando mi dia a dia en mi **[Bitácora de Estudios](https://github.com/DavidBritto/Bitacora-de-estudios)**.
 * Desarrollando mi **[Portfolio Personal](./portfolio/)** como proyecto principal de aplicación.
 * Desarrollando el **[Desafío 90 Días de DevOps con Roxs]**
 
