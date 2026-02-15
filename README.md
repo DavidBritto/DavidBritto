@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy David Britto
 
-¡Bienvenido/a a mi GitHub! Soy un apasionado por la tecnología con un background en **diseño UX/UI**, actualmente inmerso en una transformación profesional hacia el **Desarrollo Backend, Data & IA con Python**.
+¡Bienvenido/a a mi GitHub! Soy un apasionado por la tecnología con un background en **Finanzas**, actualmente inmerso en una transformación profesional hacia el **Desarrollo Backend, Data & IA con Python**.
 
 Este repositorio es mi bitácora central, donde documento mi aprendizaje, proyectos y los caminos que estoy recorriendo para alcanzar mis metas.
 
