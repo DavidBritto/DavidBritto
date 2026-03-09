@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy David Britto
 
-¡Bienvenido/a a mi GitHub! Soy un apasionado por la tecnología con un background en **Finanzas**, actualmente inmerso en una transformación profesional hacia el **Desarrollo Backend, Data & IA con Python**.
+¡Bienvenido/a a mi GitHub! Soy un apasionado por la tecnología con un background en **Finanzas**, entusiasmado y totalmente inmerso en una transformación profesional hacia el **DevOps, Data Analyst, Cryptography, LLM's, Python,**.
 
 Este repositorio es mi bitácora central, donde documento mi aprendizaje, proyectos y los caminos que estoy recorriendo para alcanzar mis metas.
 
@@ -10,8 +10,8 @@ Este repositorio es mi bitácora central, donde documento mi aprendizaje, proyec
 
 Actualmente estoy combinando formación estructurada y desafíos prácticos para construir un perfil técnico sólido y versátil.
 
-* **💻 Fullstack Developer (Informatorio Chaco):** Cursando la Etapa 2, enfocada en el desarrollo de aplicaciones web con Python, Django y MySQL.
-* **☁️ #90DaysOfDevOps Challenge:** ¡Arrancando el reto de 90 días de Cloud y DevOps guiado por **[@RoxsRoss]([https://github.com/rossanajs](https://github.com/roxsross))**! Enfocado en aprender los fundamentos de la nube, CI/CD, Docker y automatización.
+* **💻 Fullstack Developer (Informatorio Chaco):**, enfocada en el desarrollo de aplicaciones web con Python, FastAPI y MySQL.
+* **☁️ #90DaysOfDevOps Challenge:** ¡Atravesando el reto de 90 días de Cloud y DevOps guiado por **[@RoxsRoss]([https://github.com/rossanajs](https://github.com/roxsross))**! Enfocado en aprender los fundamentos de la nube, CI/CD, Docker y automatización.
 * **🧠 Inteligencia Artificial con Python:** Formación para construir una base sólida en Python y su aplicación en Análisis de Datos y Machine Learning.
 
 ---
@@ -21,8 +21,6 @@ Actualmente estoy combinando formación estructurada y desafíos prácticos para
 **🧠 Habilidades Consolidadas:**
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge" alt="Adobe XD"/></a>
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/></a>
