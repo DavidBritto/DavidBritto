@@ -1,62 +1,170 @@
-# 👋 ¡Hola! Soy David Britto
+<div align="center">
 
-¡Bienvenido/a a mi GitHub! Soy un apasionado por la tecnología con un background en **Finanzas**, entusiasmado y totalmente inmerso en una transformación profesional hacia el **DevOps, Data Analyst, Cryptography, LLM's, Python,**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00A8E8&height=220&section=header&text=David%20Britto&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DevOps%20%E2%80%A2%20Backend%20%E2%80%A2%20Builder&descAlignY=58&descSize=20&descColor=A9C8E8" width="100%" />
 
-Este repositorio es mi bitácora central, donde documento mi aprendizaje, proyectos y los caminos que estoy recorriendo para alcanzar mis metas.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00A8E8&center=true&vCenter=true&random=false&width=550&lines=Automatizando+infraestructura+con+Terraform;Orquestando+contenedores+con+Docker+%26+K8s;Construyendo+pipelines+CI%2FCD+con+GitHub+Actions;Del+dise%C3%B1o+UX%2FUI+al+backend+y+la+infraestructura;Chaco%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🚀 Mi Foco Actual: ¡Ruta de Aprendizaje Intensiva!
+![Profile Views](https://komarev.com/ghpvc/?username=DavidBritto&color=00A8E8&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/DavidBritto?color=00A8E8&logo=github&style=flat-square)](https://github.com/DavidBritto)
 
-Actualmente estoy combinando formación estructurada y desafíos prácticos para construir un perfil técnico sólido y versátil.
-
-* **💻 Fullstack Developer (Informatorio Chaco):**, enfocada en el desarrollo de aplicaciones web con Python, FastAPI y MySQL.
-* **☁️ #90DaysOfDevOps Challenge:** ¡Atravesando el reto de 90 días de Cloud y DevOps guiado por **[@RoxsRoss]([https://github.com/rossanajs](https://github.com/roxsross))**! Enfocado en aprender los fundamentos de la nube, CI/CD, Docker y automatización.
-* **🧠 Inteligencia Artificial con Python:** Formación para construir una base sólida en Python y su aplicación en Análisis de Datos y Machine Learning.
+</div>
 
 ---
 
-## 🛠️ Tecnologías y Habilidades
+## Sobre mí
 
-**🧠 Habilidades Consolidadas:**
+Vengo del diseño UX/UI y fui migrando hacia el backend y la infraestructura. Eso me da una perspectiva que no es común: entiendo tanto las decisiones de usuario como las de arquitectura.
 
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code"/></a>
-</p>
+Hoy trabajo en la intersección entre automatización de infraestructura y el ecosistema de herramientas modernas de DevOps. Me interesa construir sistemas que funcionen bien internamente.
 
-**🚀 Aprendiendo y Profundizando:**
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931A.svg?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="Scikit-learn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" alt="Azure"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/></a>
-</p>
+```yaml
+nombre:      David Britto
+ubicación:   Chaco, Argentina 🇦🇷
+enfoque:     DevOps · SRE · IaC
+```
 
 ---
 
-## 🌱 Aprendizaje Detallado y Proyectos
+## Stack
 
-* Documentando mi dia a dia en mi **[Bitácora de Estudios](https://github.com/DavidBritto/Bitacora-de-estudios)**.
-* Desarrollando mi **[Portfolio Personal](./portfolio/)** como proyecto principal de aplicación.
-* Desarrollando el **[Desafío 90 Días de DevOps con Roxs]**
+### ⚙️ DevOps & Infraestructura
+
+<div align="left">
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00A8E8)
+![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=for-the-badge&logo=ansible&logoColor=EE0000)
+![Vagrant](https://img.shields.io/badge/Vagrant-0D1117?style=for-the-badge&logo=vagrant&logoColor=1868F2)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639)
+
+</div>
+
+### 🐍 Backend
+
+<div align="left">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+</div>
+
+### 🗄️ Bases de datos
+
+<div align="left">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
+
+</div>
+
+### 🌐 Frontend & Diseño
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+</div>
+
+### ☁️ Cloud & Herramientas
+
+<div align="left">
+
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Zsh](https://img.shields.io/badge/Zsh-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=183A61)
+
+</div>
 
 ---
 
-## **📫 Conecta Conmigo**
+## Estadísticas
 
-¡Siempre estoy abierto a aprender y colaborar!
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/davidbrittoeth/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nombre en LinkedIn" height="20" width="20" /></a>
-  </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavidBritto&show_icons=true&theme=transparent&bg_color=0D1117&title_color=00A8E8&icon_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&hide_border=false&count_private=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidBritto&layout=compact&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&hide_border=false&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DavidBritto&theme=transparent&background=0D1117&border=1E3A5F&stroke=00A8E8&ring=00A8E8&fire=FF6B35&currStreakNum=FFFFFF&sideNums=A9C8E8&currStreakLabel=00A8E8&sideLabels=A9C8E8&dates=4A6F8A" height="180em" />
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavidBritto&theme=darkhub&no-frame=true&row=1&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Proyectos destacados
+
+<div align="center">
+
+[![devops-porfolio](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=devops-porfolio&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/devops-porfolio)
+[![porfolio-annotation](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=porfolio-annotation&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/porfolio-annotation)
+
+</div>
+
+<div align="center">
+
+[![informatorio](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=informatorio&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/informatorio)
+[![ai-agent-stack](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=ai-agent-stack&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/ai-agent-stack)
+
+</div>
+
+---
+
+## Actividad reciente
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidBritto&bg_color=0D1117&color=00A8E8&line=00A8E8&point=FFFFFF&area=true&area_color=0A3D62&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## Formación activa
+
+| Programa | Área | Estado |
+|---|---|---|
+| **#90DaysOfDevOps** — Rossana Suarez | Linux · Docker · CI/CD · Terraform · K8s | 🔵 En curso |
+| **100DaysOfDevOps** | kodeKloud | Linux · terraform · Ci/CD · k8s · Aws · Cloud |
+
+---
+
+## Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-DavidBritto-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidBritto)
+[![Email](https://img.shields.io/badge/Email-davidbritto54@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:davidbritto54@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,50:0A3D62,100:0D1117&height=120&section=footer" width="100%" />
+
+</div>
