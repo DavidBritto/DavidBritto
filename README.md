@@ -24,7 +24,7 @@ Me especializo en DevOps porque representa un desafío constante y enriquecedor,
 ```yaml
 nombre:      David Britto
 ubicación:   Chaco, Argentina 🇦🇷
-enfoque:     DevOps · SRE · IaC
+enfoque:     DevOps · SRE · IaC · Agents & IA
 ```
 
 ---
