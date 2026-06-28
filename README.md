@@ -117,7 +117,7 @@ enfoque:     DevOps · SRE · IaC · Agents & IA
 <div align="center">
 
 [![Stacki3-space](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=stacki3-space&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/stacki3-space)
-[![specly SDD standard](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=specly&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/specly)
+[![specly SDD standard](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=specly&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8&v=2)](https://github.com/DavidBritto/specly)
 
 </div>
 
