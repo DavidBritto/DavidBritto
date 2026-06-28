@@ -15,9 +15,11 @@
 
 ## Sobre mí
 
-Vengo del diseño UX/UI y fui migrando hacia el backend y la infraestructura. Eso me da una perspectiva que no es común: entiendo tanto las decisiones de usuario como las de arquitectura.
+Background en administración de empresas, orientando mi carrera hacia el backend y la infraestructura, lo cual me aporta una perspectiva integral para comprender tanto los aspectos financieros como las decisiones técnicas de arquitectura.
 
-Hoy trabajo en la intersección entre automatización de infraestructura y el ecosistema de herramientas modernas de DevOps. Me interesa construir sistemas que funcionen bien internamente.
+Actualmente, desempeño mi labor en la convergencia entre la automatización de infraestructura y las herramientas modernas del ecosistema DevOps, enfocado en diseñar y mantener sistemas eficientes y robustos.
+
+Me especializo en DevOps porque representa un desafío constante y enriquecedor, situándose en el nexo entre la operación y la infraestructura, permitiéndome aportar valor en ambos ámbitos.
 
 ```yaml
 nombre:      David Britto
@@ -41,6 +43,17 @@ enfoque:     DevOps · SRE · IaC
 ![Vagrant](https://img.shields.io/badge/Vagrant-0D1117?style=for-the-badge&logo=vagrant&logoColor=1868F2)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639)
+
+</div>
+
+### ☁️ Cloud & Herramientas
+
+<div align="left">
+
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Zsh](https://img.shields.io/badge/Zsh-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
+
 
 </div>
 
@@ -73,23 +86,6 @@ enfoque:     DevOps · SRE · IaC
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-</div>
-
-### ☁️ Cloud & Herramientas
-
-<div align="left">
-
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Zsh](https://img.shields.io/badge/Zsh-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=183A61)
-
-</div>
-
 ---
 
 ## Estadísticas
@@ -115,19 +111,13 @@ enfoque:     DevOps · SRE · IaC
 
 ---
 
-## Proyectos destacados
+## Proyectos personales
+
 
 <div align="center">
 
-[![devops-porfolio](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=devops-porfolio&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/devops-porfolio)
-[![porfolio-annotation](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=porfolio-annotation&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/porfolio-annotation)
-
-</div>
-
-<div align="center">
-
-[![informatorio](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=informatorio&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/informatorio)
-[![ai-agent-stack](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=ai-agent-stack&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/ai-agent-stack)
+[![Stacki3-space](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=informatorio&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/stacki3-space)
+[![specly SDD standard](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=ai-agent-stack&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/specly)
 
 </div>
 
@@ -147,8 +137,8 @@ enfoque:     DevOps · SRE · IaC
 
 | Programa | Área | Estado |
 |---|---|---|
-| **#90DaysOfDevOps** — Rossana Suarez | Linux · Docker · CI/CD · Terraform · K8s | 🔵 En curso |
-| **100DaysOfDevOps** | kodeKloud | Linux · terraform · Ci/CD · k8s · Aws · Cloud |
+| **[#90DaysOfDevOps](https://90daysdevops.295devops.com/)** — Rossana Suarez · [portfolio](https://github.com/DavidBritto/devops-portfolio) | Linux · Docker · CI/CD · Terraform · K8s | 🔵 En curso |
+| **AWS Cloud Practitioner** — [guía de estudio](https://github.com/roxsross/aws-cloud-practitioner-complete-guide) | AWS · Cloud fundamentals · Certificación | 🟡 En preparación |
 
 ---
 
@@ -157,7 +147,8 @@ enfoque:     DevOps · SRE · IaC
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DavidBritto-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidBritto)
-[![Email](https://img.shields.io/badge/Email-davidbritto54@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:davidbritto54@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidbrittoops-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/davidbrittoops)
+[![Email](https://img.shields.io/badge/Email-davidbritto54@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:davidbritto.devops@gmail.com)
 
 </div>
 
