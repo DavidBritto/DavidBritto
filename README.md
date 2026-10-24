@@ -1,94 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00A8E8&height=220&section=header&text=David%20Britto&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DevOps%20%E2%80%A2%20Backend%20%E2%80%A2%20Builder&descAlignY=58&descSize=20&descColor=A9C8E8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D62,100:00A8E8&height=220&section=header&text=David%20Britto&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20MLOps%20%2F%20AIOps%20%E2%80%A2%20Agent%20Systems%20Architect&descAlignY=58&descSize=19&descColor=A9C8E8" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=00A8E8&center=true&vCenter=true&random=false&width=550&lines=Automatizando+infraestructura+con+Terraform;Orquestando+contenedores+con+Docker+%26+K8s;Construyendo+pipelines+CI%2FCD+con+GitHub+Actions;Del+dise%C3%B1o+UX%2FUI+al+backend+y+la+infraestructura;Chaco%2C+Argentina+%F0%9F%87%A6%F0%9F%87%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=00A8E8&center=true&vCenter=true&random=false&width=650&lines=Architecting+Production+AI+Agent+Harnesses;Building+Observable+MLOps+%26+AIOps+Pipelines;Frugal+AI%3A+Deterministic+Edge+Deciders+%2B+Bedrock;AWS+Strands+Agents+%E2%80%A2+Multi-Agent+Orchestration;Cloud-Native+SRE+%26+Terraform+IaC+Foundations)](https://git.io/typing-svg)
 
 <br/>
 
+[![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-00A8E8?style=flat-square&logo=target&logoColor=white)](https://www.linkedin.com/in/davidbrittoops/)
+[![Location](https://img.shields.io/badge/Location-Argentina_(UTC--3)-0D1117?style=flat-square&logo=googlemaps&logoColor=00A8E8)](https://github.com/DavidBritto)
 ![Profile Views](https://komarev.com/ghpvc/?username=DavidBritto&color=00A8E8&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/DavidBritto?color=00A8E8&logo=github&style=flat-square)](https://github.com/DavidBritto)
+[![GitHub Followers](https://img.shields.io/github/followers/DavidBritto?color=00A8E8&logo=github&style=flat-square)](https://github.com/DavidBritto)
 
 </div>
 
 ---
 
-## Sobre mí
+## 🎯 Recruiter Quick-Scan & Role Alignment
 
-Background en administración de empresas, orientando mi carrera hacia el backend y la infraestructura, lo cual me aporta una perspectiva integral para comprender tanto los aspectos financieros como las decisiones técnicas de arquitectura.
+> **Senior AI Engineer & MLOps Architect** bridging business unit economics, cloud SRE rigor, and production agentic systems. Coming from a foundation in Business Administration, UX, and Cloud Infrastructure, I understand both the financial P&L implications and the low-level systems engineering required to ship reliable AI. I architect deterministic agent harnesses, observable LLMOps pipelines, and cost-efficient cloud systems that eliminate runaway token burn.
 
-Actualmente, desempeño mi labor en la convergencia entre la automatización de infraestructura y las herramientas modernas del ecosistema DevOps, enfocado en diseñar y mantener sistemas eficientes y robustos.
+| Parameter | Profile Details |
+| :--- | :--- |
+| **Target Roles** | **Senior AI Engineer** · **MLOps / AIOps Engineer** · **Agentic Systems Architect** · **AI Infrastructure SRE** |
+| **Core Superpowers** | **Agent Harness Architecture** (AWS Strands SDK, Bedrock AgentCore) · **Autonomous Multi-Agent Loops** · **Frugal AI Optimization** (Sub-115ms edge deciders) · **MLOps/AIOps Pipelines** (Evals, Tournaments, Budget Guards) · **Resilient Cloud IaC** (Terraform, AWS Serverless, Docker/K8s) |
+| **Key Differentiator** | **Concepts & Economics > Wrappers**: Rather than chaining brittle API calls, I treat LLMs as stochastic components inside deterministic, observable harnesses backed by automated evals, fallback state machines, and rigorous SRE & unit economic controls. |
+| **Availability** | Available for **Full-time** & **High-Impact Contracts** (Remote Worldwide / Hybrid) |
+| **Direct Channels** | [LinkedIn Profile](https://www.linkedin.com/in/davidbrittoops/) · [Personal Portfolio](https://davidbritto.dev/) · [Email Directly](mailto:davidbritto.devops@gmail.com) |
 
-Me especializo en DevOps porque representa un desafío constante y enriquecedor, situándose en el nexo entre la operación y la infraestructura, permitiéndome aportar valor en ambos ámbitos.
+---
 
-```yaml
-nombre:      David Britto
-ubicación:   Chaco, Argentina 🇦🇷
-enfoque:     DevOps · SRE · IaC · Agents & IA
+## 🏗️ Core Engineering Proof (Selected Case Studies)
+
+### 1. [SolariA](https://github.com/DavidBritto/solaria) — Autonomous Solar Telemetry & Frugal AI Synthesis
+*Deterministic Edge Decisioning paired with On-Demand Generative Intelligence*
+
+- **Architecture**: Implements Werner Vogels' **"The Frugal Architect"** design principles. Solves high-frequency telemetry dispatch using a sub-115ms edge tool selection engine (**AWS Strands Decider 2B** pattern), eliminating costly LLM token burn. Heavy generative reasoning is reserved strictly for executive financial synthesis via **Amazon Bedrock (Nova Lite)**.
+- **Resilience**: Features autonomous local valuation fallback when cloud endpoints are unreachable, ensuring 100% operational uptime.
+- **Tech Stack**: Next.js 15, TypeScript, AWS Strands Decider, Amazon Bedrock, Vitest (46/46 passed), Tailwind CSS.
+
+### 2. [AI Agent Stack](https://github.com/DavidBritto/ai-agent-stack) — Production Multi-Agent Orchestration & Evaluation Framework
+*Self-Hosted, Observable, and Budget-Governed Agent Harness*
+
+- **Architecture**: Comprehensive agent harness featuring dynamic sub-agent delegation (`sdd-eval`), persistent memory engines (`Engram`), automated model tournament benchmarks, token budget guards, and CI pipeline watchers.
+- **Impact**: Provides full observability into agent decision loops, context window saturation, and cost anomalies before deploying agentic workflows to production.
+- **Tech Stack**: Python, Multi-Agent Loop Orchestrator, Persistent Memory (Engram), Bedrock / Claude Code Hooks, Automated Eval Harness.
+
+### 3. [Specly](https://github.com/DavidBritto/specly) — Spec-Driven Development (SDD) Standard for Autonomous AI
+*Rigorous Specification Framework for Agent Execution & Contract Verification*
+
+- **Architecture**: Engineering standard enforcing contract-first development for AI-driven codebases. Defines immutable boundaries, automated verification criteria, and structured task graphs that prevent agent drift and hallucinated implementations.
+- **Impact**: Transforms open-ended AI prompting into measurable, auditable pull requests with deterministic acceptance criteria.
+- **Tech Stack**: Markdown/YAML DSL, Automated Linters, Multi-Agent Verification Loops.
+
+### 4. [ResQ-Cloud](https://github.com/DavidBritto/resq-cloud) — Resilient Event-Driven Disaster Triage Platform
+*High-Throughput Asynchronous Ingestion with Zero-Cost-at-Rest*
+
+- **Architecture**: Solves the *thundering herd problem* during natural disasters. Employs direct API Gateway to SQS service integration (no compute bottleneck), Geohash-based spatial deduplication in DynamoDB, and partial batch failure handling (`ReportBatchItemFailures`) in Lambda.
+- **Impact**: Handles massive traffic bursts with zero data loss and $0.00 USD cost at rest inside the Free Tier.
+- **Tech Stack**: AWS Serverless (API Gateway, SQS, Lambda, DynamoDB), Python, Geohash, CloudWatch, Draw.io/Mermaid.
+
+---
+
+## 🛠️ Technical Arsenal & Core Stack
+
+### 🤖 Agentic AI & Orchestration
+```
+AWS Strands Agents SDK  •  Amazon Bedrock AgentCore  •  Multi-Agent Delegation
+Deterministic Tool Calling  •  Context & Memory Harnesses (Engram)  •  Agent Guardrails  •  SDD (Specly)
 ```
 
+### 📊 MLOps, AIOps & Observability
+```
+Continuous LLM Evaluation (Evals)  •  Model Tournaments  •  Token Budget Governance
+Sub-115ms Edge Decisioning  •  Deterministic Fallback Engines  •  CloudWatch & OpenTelemetry
+```
+
+### ☁️ Cloud, DevOps & SRE Foundations
+```
+AWS (Bedrock, Lambda, API Gateway, SQS, DynamoDB, S3)  •  Terraform (IaC)  •  Kubernetes (K8s)
+Docker Containers  •  GitHub Actions CI/CD  •  Linux Systems & Hardening  •  Nginx
+```
+
+### 💻 Languages & Frameworks
+```
+Python (AsyncIO, Pydantic, Boto3, FastAPI)  •  TypeScript  •  Next.js 15
+Bash / Zsh Scripting  •  SQL (PostgreSQL, MySQL)  •  RESTful APIs
+```
+
+<div align="center">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Agentic AI** | `AWS Strands SDK` `Amazon Bedrock AgentCore` `Multi-Agent Loops` `Prompt/Harness Design` `Engram Memory` `Specly (SDD)` |
+| **MLOps / AIOps** | `LLM Evals` `Model Benchmarking` `Budget-Guard` `Edge Deciders` `Telemetry & Tracing` `Token Unit Economics` |
+| **Cloud & DevOps** | `AWS Serverless` `Terraform (IaC)` `Docker` `Kubernetes` `GitHub Actions` `Linux` |
+| **Languages & Tools** | `Python` `TypeScript` `FastAPI` `Next.js 15` `Vitest` `Git` `VS Code` `Zsh` |
+
+</div>
+
 ---
 
-## Stack
+## 💡 Engineering Philosophy: The Competitive Edge
 
-### ⚙️ DevOps & Infraestructura
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                   THE PRODUCTION AI DISCIPLINE                         │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. CONCEPTS > CODE        We architect robust systems, not prompt toys.│
+│ 2. THE FRUGAL ARCHITECT   Sub-115ms edge deciders beat token burn.     │
+│ 3. AIOPS & OBSERVABILITY  If an agent can't be evaluated, don't ship it│
+│ 4. BUSINESS & SRE RIGOR   Deterministic unit economics & infrastructure│
+│                           tame stochastic model behavior.              │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-<div align="left">
+1. **Deterministic Controls over Stochastic Models**: AI agents are powerful, but enterprise systems demand predictability. I wrap stochastic LLMs inside deterministic state machines, strict schema validation, and fallback loops.
+2. **The Frugal AI Mindset**: High-frequency decisions belong on the edge or in deterministic code, not burning API tokens. Heavy generative calls should be reserved for high-value synthesis.
+3. **From DevOps to AIOps**: True agent engineering is an SRE discipline: context window management, token rate-limiting, error triage, latency budgets, and continuous evals.
+4. **Business Acumen & Unit Economics**: My background in business administration ensures every architectural decision is grounded in ROI, token consumption economics, and verifiable business impact.
 
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00A8E8)
-![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=2088FF)
-![Ansible](https://img.shields.io/badge/Ansible-0D1117?style=for-the-badge&logo=ansible&logoColor=EE0000)
-![Vagrant](https://img.shields.io/badge/Vagrant-0D1117?style=for-the-badge&logo=vagrant&logoColor=1868F2)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639)
-
-</div>
-
-### ☁️ Cloud & Herramientas
-
-<div align="left">
-
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Zsh](https://img.shields.io/badge/Zsh-0D1117?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
-
-
-</div>
-
-### 🐍 Backend
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/REST_API-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-
-</div>
-
-### 🗄️ Bases de datos
-
-<div align="left">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D)
-
-</div>
-
-### 🌐 Frontend & Diseño
-
-<div align="left">
-
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ---
 
-## Estadísticas
+## 📈 Activity & Engineering Momentum
 
 <div align="center">
 
@@ -105,54 +138,26 @@ enfoque:     DevOps · SRE · IaC · Agents & IA
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidBritto&theme=darkhub&no-frame=true&row=1&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Proyectos personales
-
-
-<div align="center">
-
-[![Stacki3-space](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=stacki3-space&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8)](https://github.com/DavidBritto/stacki3-space)
-[![specly SDD standard](https://github-readme-stats.vercel.app/api/pin/?username=DavidBritto&repo=specly&theme=transparent&bg_color=0D1117&title_color=00A8E8&text_color=A9C8E8&border_color=1E3A5F&icon_color=00A8E8&v=2)](https://github.com/DavidBritto/specly)
-
-</div>
-
----
-
-## Actividad reciente
-
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidBritto&bg_color=0D1117&color=00A8E8&line=00A8E8&point=FFFFFF&area=true&area_color=0A3D62&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## Formación activa
+## 🤝 Let's Connect
 
-| Programa | Área | Estado |
-|---|---|---|
-| **[#90DaysOfDevOps](https://90daysdevops.295devops.com/)** — Rossana Suarez · [portfolio](https://github.com/DavidBritto/devops-portfolio) | Linux · Docker · CI/CD · Terraform · K8s | 🔵 En curso |
-| **AWS Cloud Practitioner** — [guía de estudio](https://github.com/roxsross/aws-cloud-practitioner-complete-guide) | AWS · Cloud fundamentals · Certificación | 🟡 En preparación |
-
----
-
-## Contacto
+I am actively open to discussing **Senior AI Engineering**, **MLOps / AIOps**, and **Agent Infrastructure** roles. Whether you're building production agent harnesses or scaling cloud architectures, let's talk:
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Britto-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidbrittoops)
+[![Portfolio](https://img.shields.io/badge/Portfolio-davidbritto.dev-00A8E8?style=for-the-badge&logo=firefox&logoColor=white)](https://davidbritto.dev/)
+[![Email](https://img.shields.io/badge/Email-davidbritto.devops@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidbritto.devops@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DavidBritto-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidBritto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-davidbrittoops-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/davidbrittoops)
-[![Email](https://img.shields.io/badge/Email-davidbritto54@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:davidbritto.devops@gmail.com)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
